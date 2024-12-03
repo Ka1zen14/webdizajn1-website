@@ -140,7 +140,8 @@ ul li{
 	width:100%;
 	height:80%;
 }
-#isl p{
+
+#isl figcaption{
 	text-align:center;
 	text-decoration:underline;
 	font-size:20px;
@@ -150,7 +151,7 @@ ul li{
 	width:100%;
 	height:80%;
 }
-#isr p{
+#isr figcaption{
 	text-align:center;
 	text-decoration:underline;
 	font-size:20px;
